@@ -1,2 +1,2 @@
-print("old feature")
+print("old feature is bold")
 print("new feature")
